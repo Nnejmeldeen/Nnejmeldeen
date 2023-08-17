@@ -1,6 +1,11 @@
 ### Hi there 👋, I'm Noureen Maarouf 
-I am a creative business student (an Economics major) who has experience in different fields such as Finance, digital marketing, design and programming. Worked before as a project coordinator and made a program that helped 200+ to choose their careers. Led a student club program in Ain Shams University by Google developers called  GoogleDeveloper Student Club
+As an Investment Analyst, I excel in market research, financial analysis, and reporting. I assist portfolio companies with data aggregation, monitoring, valuation analysis, internal reporting, and compliance requirements. 
 
+Previously, I was a Data Science and Machine Learning Analyst intern at Vodafone Egypt and a Finance and Treasury Analyst Intern at Schneider Electric Egypt. I managed cash functions and demonstrated exceptional skills in machine learning and data visualization.
+
+I graduated summa cum laude from Ain Shams University with a Bachelor of Business (Economics). My academic achievements include 2nd place in RoboCup Egypt 2019, Top Performer Vodanation Intern, and one of the Top 5 projects in the Google MENA Solution Challenge 2021.
+
+I am proficient in R, Python, and C++, and have authored several papers on various economic topics. With a strong combination of practical experience and academic excellence, I am well-equipped to make significant contributions in any professional setting.
 Skills: R / Python / C++
 
 - 🔭 I’m currently working on this page. 
